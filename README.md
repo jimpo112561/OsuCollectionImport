@@ -1,2 +1,2 @@
 # OsuCollectionInport
-基於CollectionManager所改寫的簡易型收藏夾匯入工具
+此專案使用 https://github.com/Piotrekol/CollectionManager 更改使用，方便給比賽人員輕鬆的把圖池給下載&整理
